@@ -5,3 +5,5 @@
 .env.staging
 .env.production
 *dist/*
+package-lock
+package
