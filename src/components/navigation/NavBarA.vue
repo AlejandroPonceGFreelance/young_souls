@@ -26,6 +26,8 @@ export default defineComponent({
         <div class="icon">
             <img src="/public/icons/black-ghost.png" style="height: 50px;">
         </div>
+
+        <div>hopla</div>
         
     </div>
 </template>
